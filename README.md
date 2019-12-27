@@ -1,4 +1,4 @@
-# 790-Project
+# Texture Generation with GAN
 This project consists of three parts: STGAN, MTGAN and SGAN
 
 ## SGAN
